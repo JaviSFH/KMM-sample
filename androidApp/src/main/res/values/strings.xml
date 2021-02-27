@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="password">Password</string>
+    <string name="phoneNumber">Phone number</string>
+    <string name="validate">Validate</string>
+    <string name="emailAddress">Email address</string>
+    <string name="signUpGreeting">Sign Up with %1$s</string>
+    <string name="validForm">Fields are valid</string>
+    <string name="notValidForm">Fields are not valid</string>
+</resources>
