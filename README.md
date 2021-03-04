@@ -5,6 +5,8 @@ This project pretends to be a research project to play around with Kotlin Multip
 
 # Project structure
 
+![Kotlin Multiplatform](.art/kotlin-multiplatform.png)
+
 The KMM project structure is compound by three main blocks or folders.
 
 ## androidApp
@@ -38,3 +40,19 @@ The sample concept was creating a simple validation library. The most common sce
 Usually the validation logic would have to be duplicated, case by case, for both platforms, which is quite error prone and expensive in terms of time invested.
 
 If only we could write this code only once... Well, this is where KMM comes to the rescue so we can write, in a very friendly programming language (Kotlin), a single library that can be reused by both Android and iOS applications. Actually this library could also be used by a [Java Script frontend application](https://kotlinlang.org/docs/js-get-started.html). Actually... this library could also be used as a backend validation library (if we had a Java backend application) so that with **a single base of code** we could implement the validation for the frontend (iOS, Android,  Web React) and backend (Java Spring). Of course, this depends on your stack implementation.
+
+## License
+
+    Copyright 2021 Javier Martínez
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
