@@ -1,6 +1,6 @@
 # Kotlin Multiplatform Mobile Sample
 
-This project pretends to be a research project to play around with Kotlin Multiplatform Mobile (KMM) and discover its benefits and drawbacks 
+This project pretends to be a research project to play around with Kotlin Multiplatform Mobile (KMM) and discover its benefits and drawbacks. Read [this](https://javi-sfh.medium.com/a-first-glance-to-kotlin-multiplatform-mobile-kmm-cc27a25bf23f) Medium article if you want to know more about this project.
 
 
 # Project structure
